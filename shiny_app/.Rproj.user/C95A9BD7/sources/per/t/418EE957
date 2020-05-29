@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590601559813.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "393945733",
+    "id" : "418EE957",
+    "lastKnownWriteTime" : 1590764917,
+    "last_content_update" : 1590764917234,
+    "path" : "~/Projects/Deeply_Drunk_Bartender/App/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "50,12",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

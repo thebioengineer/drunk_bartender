@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590793738093.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3102357140",
+    "id" : "86C856D",
+    "lastKnownWriteTime" : 1590795433,
+    "last_content_update" : 1590795433585,
+    "path" : "~/Projects/Deeply_Drunk_Bartender/gcp/Dockerfile",
+    "project_path" : "gcp/Dockerfile",
+    "properties" : {
+        "cursorPosition" : "47,24",
+        "scrollLine" : "23",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

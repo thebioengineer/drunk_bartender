@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590793764347.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "95A37C1",
+    "lastKnownWriteTime" : 1590793770,
+    "last_content_update" : 1590793770163,
+    "path" : "~/Projects/Deeply_Drunk_Bartender/gcp/setup.R",
+    "project_path" : "gcp/setup.R",
+    "properties" : {
+        "cursorPosition" : "2,35",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

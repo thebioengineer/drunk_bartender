@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<style>body{background-color:white;}</style>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="lib/bootstrap-3.4.1/css/bootstrap.min.css" rel="stylesheet" />
+<script src="lib/bootstrap-3.4.1/js/bootstrap.min.js"></script>
+<script src="lib/bootstrap-3.4.1/shim/html5shiv.min.js"></script>
+<script src="lib/bootstrap-3.4.1/shim/respond.min.js"></script>
+  <title>Make me a drink, Bartender!</title>
+</head>
+<body>
+<div class="container-fluid" style="width:fit-content;">
+  <h2>Make me a drink, Bartender!</h2>
+  <div class="col-sm-12 well">
+    <p>You walk into a bar and see a figure, slumped, leaning against the wall, behind bar, cleaning a glass in the shadows.</p>
+    <p>'What'll you have?' - a gruff voice eminates from the figure.</p>
+    <div class="form-group shiny-input-container">
+      <label class="control-label" for="drink">I'll have a:</label>
+      <input id="drink" type="text" class="form-control" value="Whiskey Coke"/>
+    </div>
+    <button id="makeDrink" style="width: 100%;" type="button" class="btn btn-default action-button">Make Drink</button>
+    <p>Only problem, is, you quickly realize he is drunk as he makes you drink.</p>
+    <p>Too late, your order is in!</p>
+  </div>
+  <div class="col-sm-12 well">
+    <p>Heres y'r drink:</p>
+    <div>
+      <div id="contents" class="shiny-text-output"></div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

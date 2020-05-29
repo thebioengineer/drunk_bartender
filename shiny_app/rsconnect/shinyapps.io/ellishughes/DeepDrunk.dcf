@@ -1,0 +1,13 @@
+name: DeepDrunk
+title: DeepDrunk
+username:
+account: ellishughes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2366055
+bundleId: 3205060
+url: https://ellishughes.shinyapps.io/DeepDrunk/
+when: 1590765010.90961
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: name_and_contents_multiple_widths_trained_saved_cpu.h5|name_and_contents_trained.hdf5|sample.html|lib
