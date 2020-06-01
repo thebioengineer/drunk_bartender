@@ -1,7 +1,7 @@
 library(keras)
 
 values <- readRDS("Drunk_Params.RDS")
-cocktail_model <- load_model_hdf5("gcp/name_and_contents_multiple_widths_trained_saved_cpu.h5")
+cocktail_model <- load_model_hdf5("name_and_contents_multiple_widths_trained_saved_cpu.h5")
 
 whats_in_my_cocktail <- function(cocktail_name = "Gin Sling", diversity = .8, guessmax = 300){
   
@@ -25,7 +25,7 @@ whats_in_my_cocktail <- function(cocktail_name = "Gin Sling", diversity = .8, gu
   reviewChars<-0 
   
   x <- as.matrix(data.frame(
-      sapply(values$Inputs, function(x){as.integer(x == splitSeed)})
+      lapply(values$Inputs, function(x){as.numeric(x == splitSeed)}) # use as.numeric :shrug:
     ))
   
   
